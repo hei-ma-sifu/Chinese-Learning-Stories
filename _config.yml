@@ -1,3 +1,5 @@
 title: "Learn Chinese Through Stories"
 description: "Classic Stories for Chinese Language Learners."
 theme: jekyll-theme-lanyon
+header_pages:
+  - posts.md
