@@ -2,7 +2,7 @@
 title: "The Boy Who Cried Wolf (狼来了)"
 date: 2026-01-18
 categories: stories
-layout: post
+layout: default
 excerpt: "A classic tale about the shepherd boy who cried wolf twice as a prank, and what happens when the real wolf arrives."
 ---
 

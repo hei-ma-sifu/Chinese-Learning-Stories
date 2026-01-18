@@ -2,7 +2,7 @@
 title: "The Tortoise and the Hare (龟兔赛跑)"
 date: 2026-01-18
 categories: stories
-layout: post
+layout: default
 excerpt: "A classic fable about persistence and determination overcoming natural talent and arrogance."
 ---
 

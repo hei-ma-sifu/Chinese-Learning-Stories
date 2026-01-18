@@ -2,7 +2,7 @@
 title: "The Emperor's New Clothes (皇帝的新衣)"
 date: 2026-01-18
 categories: stories
-layout: post
+layout: default
 excerpt: "A timeless tale about vanity, deception, and the courage to speak the truth, featuring an emperor obsessed with clothes, two cunning swindlers, and a child's innocent honesty."
 ---
 

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9"
-gem "jekyll-theme-lanyon"
+gem "jekyll-theme-slate"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
